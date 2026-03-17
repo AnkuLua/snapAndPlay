@@ -26,7 +26,7 @@ This script bridges the gap between simple clickers and complex programmed bots,
 
 ## 📥 Installation
 
-1.  Download and install [AnkuLua](https://ankulua.boards.net/thread/1395/ankulua-trial-apk-download) on your Android device (or emulator).
+1.  Install [AnkuLua Lite](https://play.google.com/store/apps/details?id=com.appautomatic.ankulua.lite) on your Android device (or emulator).
 2.  The build-in `snapAndPlay.lua` file is already there.
 3.  Select the script within the AnkuLua app and follow the on-screen prompts to start recording. Stop the script to stop the recording.
 4.  Play the snapAndPlay.lua script and choose playback to play the recorded script.
